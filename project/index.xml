@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Profile</title>
-    <link>https://olboi7.github.io/</link>
-    <description>Recent content on Profile</description>
+    <title>Projects on Profile</title>
+    <link>https://olboi7.github.io/project/</link>
+    <description>Recent content in Projects on Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 08 Feb 2021 15:55:03 -0400</lastBuildDate>
     
-	<atom:link href="https://olboi7.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olboi7.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -98,15 +98,6 @@ fitting: John Guest PI Series Connectors</description>
       <description>First version of the user interface The main window In this window you can access command graphics or the system map.
 The command window If you want to change cycle time or open/close one valve to check if all works. Whith that it&amp;rsquo;s easier to see if there is clogged foggers I don&amp;rsquo;t have to restart my arduino or wait for another cycle.
 The map window On this window you have all the sensors real time data.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://olboi7.github.io/about/</link>
-      <pubDate>Sat, 30 Jan 2021 16:08:36 -0400</pubDate>
-      
-      <guid>https://olboi7.github.io/about/</guid>
-      <description>Mechanical engineering background </description>
     </item>
     
     <item>
