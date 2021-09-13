@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Olivier Boisvert</title>
-        <link>https://example.com/</link>
+        <link>https://olboi7.github.io/</link>
         <description>Recent content on Olivier Boisvert</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Final prototype</title>
-        <link>https://example.com/p/final-prototype/</link>
+        <link>https://olboi7.github.io/p/final-prototype/</link>
         <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/final-prototype/</guid>
-        <description>&lt;img src="https://example.com/img/proto1.jpg" alt="Featured image of post Final prototype" /&gt;&lt;hr&gt;
+        <guid>https://olboi7.github.io/p/final-prototype/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/proto1.jpg" alt="Featured image of post Final prototype" /&gt;&lt;hr&gt;
 &lt;p style=&#34;text-align:center;color:black;font-size:300%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:bold;&#34;&gt; 
 Final prototype
 &lt;/p&gt;
@@ -29,7 +29,7 @@ Finally after more than a year and a half, I finished my industrial prototype. A
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto1.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;The whole system&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto1.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;The whole system&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -46,7 +46,7 @@ Finally after more than a year and a half, I finished my industrial prototype. A
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto2.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;The whole system side view&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto2.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;The whole system side view&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -63,7 +63,13 @@ Finally after more than a year and a half, I finished my industrial prototype. A
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
 &lt;hr&gt;
 &lt;hr&gt;
-&lt;p&gt;.center { margin: 0 auto; width: 400px; }
+&lt;p&gt;&lt;center&gt;
+&lt;video controls class=&#39;center&#39; video=&#39;this is a label&#39; controls=&#34;yes&#34; style=&#34;width: 65%; height: 65%; border:5px solid black;&#34;&gt;
+    &lt;source src=&#34;https://olboi7.github.io/img/total2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;p&gt; Your browser does not support video. &lt;/p&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+
 &lt;p style=&#34;text-align:center;color:black;font-size:125%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:100d;font-style: italic;&#34;&gt;Short video of the system&lt;/p&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -75,7 +81,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto3.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Water control unit&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto3.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Water control unit&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -95,7 +101,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto4.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Inside view of the mister unit&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto4.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Inside view of the mister unit&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -115,7 +121,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto8.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Motor and the sliding system&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto8.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Motor and the sliding system&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -136,7 +142,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto5.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Control panel&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto5.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Control panel&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -154,7 +160,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
     &lt;figure &gt;
         
-            &lt;img src=&#34;https://example.com/img/proto7.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Inside the control panel&#34; /&gt;
+            &lt;img src=&#34;https://olboi7.github.io/img/proto7.jpg&#34;  style=&#34;border: 4px solid black; vertical-align:middle&#34; alt=&#34;Inside the control panel&#34; /&gt;
         
         
         &lt;figcaption&gt;
@@ -172,15 +178,15 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
         </item>
         <item>
         <title>The bulding of the prototype</title>
-        <link>https://example.com/p/the-bulding-of-the-prototype/</link>
+        <link>https://olboi7.github.io/p/the-bulding-of-the-prototype/</link>
         <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/the-bulding-of-the-prototype/</guid>
-        <description>&lt;img src="https://example.com/img/nsys33.jpg" alt="Featured image of post The bulding of the prototype" /&gt;&lt;p&gt;For the prototype, my goal is to make a light and &amp;ldquo;easy to build&amp;rdquo; module. The reason is simple, one of the strengths of aeroponics is that the system consumes at least 80% -95% less water than hydroponics. Thus an aeroponic system is much lighter. As a result, it can be installed on less strong roofs easier. Roofs will not have to support a large amount of weight of water.&lt;/p&gt;
+        <guid>https://olboi7.github.io/p/the-bulding-of-the-prototype/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/nsys33.jpg" alt="Featured image of post The bulding of the prototype" /&gt;&lt;p&gt;For the prototype, my goal is to make a light and &amp;ldquo;easy to build&amp;rdquo; module. The reason is simple, one of the strengths of aeroponics is that the system consumes at least 80% -95% less water than hydroponics. Thus an aeroponic system is much lighter. As a result, it can be installed on less strong roofs easier. Roofs will not have to support a large amount of weight of water.&lt;/p&gt;
 &lt;p&gt;My first idea was to build a structure in PVC because this material is NSF. Subsequently I used HDPE panels, also NSF, in order to be able to support the pots of the plants. In order to create a retention basin I used an EPDM canvas, also NSF. I used stainless steel screws to hold the panels and boat buttons to hold the canvas. The installation was very long, and inconclusive, more than I pierced the canvas during the process. Also, the thin thickness of the panels, let the light get through them.&lt;/p&gt;
 &lt;h1 id=&#34;april-2-2021&#34;&gt;April 2, 2021&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys2.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys2.jpg&#34;
          alt=&#34;First attempt frame&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;First attempt frame&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -188,7 +194,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
 &lt;h1 id=&#34;april-2-2021-1&#34;&gt;April 2, 2021&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys5.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys5.jpg&#34;
          alt=&#34;First attempt frame with EDMP tarpaulin&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;First attempt frame with EDMP tarpaulin&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -197,7 +203,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 &lt;p&gt;I started my prototype again with a wooden support in order to hold an EDPM canvas in order to make a shallow retention basin. I recovered an HDPE panel to make the bottom of the basin. I rounded two of the four wooden seats in order to send the water to the center of the module. Then I used another kind of panel to hold the plants together. They are made of PVC and are food grade, NSF. The advantage of these panels is that they are easy to cut, come in several widths (8 to 16 inches) and lengths (8 to 16 feet). In addition to the fact that the company that manufactures these panels has matching moldings !. Ha, and of course the light doesn&amp;rsquo;t pass through so bacteria won&amp;rsquo;t grow.&lt;/p&gt;
 &lt;h1 id=&#34;may-23-2021&#34;&gt;May 23, 2021&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys7.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys7.jpg&#34;
          alt=&#34;First attempt frame with EDMP tarpaulin&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;First attempt frame with EDMP tarpaulin&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -205,7 +211,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys10.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys10.jpg&#34;
          alt=&#34;Inside the pyramid&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Inside the &lt;strong&gt;pyramid&lt;/strong&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -214,21 +220,21 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 &lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
 &lt;p&gt;Next step was to put a slider module controlled by a stepper motor above this module in order to mist as much surface as possible. So if I manufacture 16-foot modules in the future, mechanical maintenance will be simple compared to installing hundreds of misting nozzles.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys11.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys11.jpg&#34;
          alt=&#34;Below the frame&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Below the frame&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys12.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys12.jpg&#34;
          alt=&#34;The sliding mechanism&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;The sliding mechanism&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys15.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys15.jpg&#34;
          alt=&#34;Overview of the system&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Overview of the system&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -242,7 +248,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 -Program an interface in order to control it manually and change its cycle times.&lt;/p&gt;
 &lt;p&gt;I added a motor and gears to move the sliding part&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys24.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys24.jpg&#34;
          alt=&#34;Motor, drive, and mechanism&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Motor, drive, and mechanism&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -250,7 +256,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
 &lt;p&gt;I added two limit switches to limit the movement and added it do the code. Now the system slide and mist, stop at a limit swith ( stop the power suply and the misters), waits 2 minutes and start over.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys27.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys27.jpg&#34;
          alt=&#34;Limit swiches&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Limit swiches&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -258,7 +264,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 
 &lt;h1 id=&#34;heading-2&#34;&gt;&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys28.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys28.jpg&#34;
          alt=&#34;System with limit switches&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;System with limit switches&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -267,14 +273,14 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 &lt;h1 id=&#34;heading-3&#34;&gt;&lt;/h1&gt;
 &lt;p&gt;I drilled the holes and cut pieces of NSF vinyl pipes to seal them.
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys29.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys29.jpg&#34;
          alt=&#34;System with holes&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;System with holes&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys32.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys32.jpg&#34;
          alt=&#34;System in action&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;System in action&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -283,7 +289,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
 &lt;p&gt;I tried clear vinyl pipes, the sealing effect was perfect but the light was diffused by this material. I changed all these seals for NSF black vinyl pipes and it worked.
 With the sliding system next to the main system I could get the piping system through the side instead of above. Thus, It&amp;rsquo;s more difficult for the light to get into the system even impossible. To be sure tha the system is light proof I added PVC molding around the EDPM fabric.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys33.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys33.jpg&#34;
          alt=&#34;The side groove&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;The side groove&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -291,7 +297,7 @@ With the sliding system next to the main system I could get the piping system th
 
 &lt;h1 id=&#34;heading-4&#34;&gt;&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys34.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys34.jpg&#34;
          alt=&#34;The inside groove&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;The inside groove&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -299,7 +305,7 @@ With the sliding system next to the main system I could get the piping system th
 
 &lt;h1 id=&#34;heading-5&#34;&gt;&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys38.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys38.jpg&#34;
          alt=&#34;Finished overview of the pyramid&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Finished overview of the pyramid&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -308,7 +314,7 @@ With the sliding system next to the main system I could get the piping system th
 &lt;h1 id=&#34;heading-6&#34;&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;july-6-2021&#34;&gt;July 6, 2021&lt;/h1&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/img/nsys42.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/nsys42.jpg&#34;
          alt=&#34;Final motor mechanism&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Final motor mechanism&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -320,16 +326,16 @@ With the sliding system next to the main system I could get the piping system th
         </item>
         <item>
         <title>System-evolution</title>
-        <link>https://example.com/p/system-evolution/</link>
+        <link>https://olboi7.github.io/p/system-evolution/</link>
         <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/system-evolution/</guid>
-        <description>&lt;img src="https://example.com/img/Kraker1.png" alt="Featured image of post System-evolution" /&gt;&lt;h2 id=&#34;low-pressure-system&#34;&gt;Low pressure system&lt;/h2&gt;
+        <guid>https://olboi7.github.io/p/system-evolution/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/Kraker1.png" alt="Featured image of post System-evolution" /&gt;&lt;h2 id=&#34;low-pressure-system&#34;&gt;Low pressure system&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Aquarium pump was working 24/7 that system made to mush noise &amp;hellip; I removed it 2 days after I had installed it&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/zero.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/zero.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/zero.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/zero.png&#34;
 			
 			
 			
@@ -344,8 +350,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;p&gt;&lt;strong&gt;I did&amp;rsquo;n wand to waste my crops so I try Kratky method. I put the plant in water and as the plants grow the water level drop, so that the roots can access air.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/Kraker1.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/Kraker1.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/Kraker1.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/Kraker1.png&#34;
 			
 			
 			
@@ -360,8 +366,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;p&gt;&lt;strong&gt;I bought a high pressur tanks a pump and a lot of parts to built my 1st high pressur prototype.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/sys_0.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/sys_0.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/sys_0.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/sys_0.png&#34;
 			
 			
 			
@@ -375,8 +381,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;p&gt;&lt;strong&gt;I installed it, but it was too noisy&amp;hellip; I had to find a solution.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/boite_iso_0.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/boite_iso_0.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/boite_iso_0.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/boite_iso_0.png&#34;
 			
 			
 			
@@ -390,8 +396,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;p&gt;&lt;strong&gt;I buit a sound insolated box to put my water tank and my punp in it and &amp;hellip;.. it works ! finally I could sleep!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/boite_iso1.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/boite_iso1.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/boite_iso1.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/boite_iso1.png&#34;
 			
 			
 			
@@ -404,8 +410,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/boite_iso2.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/boite_iso2.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/boite_iso2.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/boite_iso2.png&#34;
 			
 			
 			
@@ -419,8 +425,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;p&gt;&lt;strong&gt;Whit my pump and my water tank removed I could add a microgreens shelf!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/sys_1_overall.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/sys_1_overall.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/sys_1_overall.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/sys_1_overall.png&#34;
 			
 			
 			
@@ -434,8 +440,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;h1 id=&#34;i-want-more&#34;&gt;I want more!&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/Tarts.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/Tarts.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/Tarts.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/Tarts.jpg&#34;
 			
 			
 			
@@ -450,8 +456,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;p&gt;&lt;strong&gt;Full automated system with interface user. In this one I added 2 more powerfull LED lights to be able to grow fruit!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/sys_3.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/sys_3.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/sys_3.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/sys_3.png&#34;
 			
 			
 			
@@ -466,17 +472,17 @@ With the sliding system next to the main system I could get the piping system th
         </item>
         <item>
         <title>Hydroponie project</title>
-        <link>https://example.com/p/hydroponie-project/</link>
+        <link>https://olboi7.github.io/p/hydroponie-project/</link>
         <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/hydroponie-project/</guid>
-        <description>&lt;img src="https://example.com/img/hydro16.jpeg" alt="Featured image of post Hydroponie project" /&gt;&lt;h1 id=&#34;hydroponie-project&#34;&gt;Hydroponie project&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/hydroponie-project/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/hydro16.jpeg" alt="Featured image of post Hydroponie project" /&gt;&lt;h1 id=&#34;hydroponie-project&#34;&gt;Hydroponie project&lt;/h1&gt;
 &lt;p&gt;This is a hydroponic system made for a family member. We will compare the effectiveness of the two systems. This system is very simple, it is about an aquarium pump which recyrculates a solution of nutrients. 4 inch and 1/2 inch pvc pipes with the components and glue to join them together were used to build the system. A filter was put on the return to keep the water basin clean. The other components are irrigation fittings, elbow and black pipes.&lt;/p&gt;
 &lt;p&gt;In order to prevent leaks, a retention basin made with EDPM canvas has been added under the shelf.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro1.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro1.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro1.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro1.jpg&#34;
 			
 			
 			
@@ -489,8 +495,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro2.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro2.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro2.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro2.jpg&#34;
 			
 			
 			
@@ -503,8 +509,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro3.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro3.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro3.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro3.jpg&#34;
 			
 			
 			
@@ -517,8 +523,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro4.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro4.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro4.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro4.jpg&#34;
 			
 			
 			
@@ -532,8 +538,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;h1 id=&#34;june-4-2021&#34;&gt;June 4, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro5.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro5.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro5.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro5.jpg&#34;
 			
 			
 			
@@ -546,8 +552,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro6.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro6.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro6.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro6.jpg&#34;
 			
 			
 			
@@ -560,8 +566,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro7.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro7.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro7.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro7.jpg&#34;
 			
 			
 			
@@ -575,8 +581,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;h1 id=&#34;june-11-2021&#34;&gt;June 11, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro8.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro8.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro8.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro8.jpg&#34;
 			
 			
 			
@@ -589,8 +595,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro9.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro9.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro9.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro9.jpg&#34;
 			
 			
 			
@@ -603,8 +609,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro10.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro10.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro10.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro10.jpg&#34;
 			
 			
 			
@@ -617,8 +623,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro11.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro11.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro11.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro11.jpg&#34;
 			
 			
 			
@@ -632,8 +638,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;h1 id=&#34;june-17-2021&#34;&gt;June 17, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro12.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro12.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro12.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro12.jpeg&#34;
 			
 			
 			
@@ -646,8 +652,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro13.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro13.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro13.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro13.jpeg&#34;
 			
 			
 			
@@ -660,8 +666,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro14.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro14.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro14.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro14.jpeg&#34;
 			
 			
 			
@@ -674,8 +680,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro15.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro15.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro15.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro15.jpeg&#34;
 			
 			
 			
@@ -689,8 +695,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;h1 id=&#34;june-27-2021&#34;&gt;June 27, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro16.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro16.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro16.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro16.jpeg&#34;
 			
 			
 			
@@ -703,8 +709,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro17.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro17.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro17.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro17.jpeg&#34;
 			
 			
 			
@@ -717,8 +723,8 @@ With the sliding system next to the main system I could get the piping system th
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/hydro18.jpeg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/hydro18.jpeg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/hydro18.jpeg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/hydro18.jpeg&#34;
 			
 			
 			
@@ -733,16 +739,16 @@ With the sliding system next to the main system I could get the piping system th
         </item>
         <item>
         <title>Aeroponic project</title>
-        <link>https://example.com/p/aeroponic-project/</link>
+        <link>https://olboi7.github.io/p/aeroponic-project/</link>
         <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/aeroponic-project/</guid>
-        <description>&lt;img src="https://example.com/img/salade_main.jpg" alt="Featured image of post Aeroponic project" /&gt;&lt;h1 id=&#34;why-the-project&#34;&gt;Why the project?&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/aeroponic-project/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/salade_main.jpg" alt="Featured image of post Aeroponic project" /&gt;&lt;h1 id=&#34;why-the-project&#34;&gt;Why the project?&lt;/h1&gt;
 &lt;p&gt;In those days we have to think about the future. If we want to slow down our pollution rate, we have to change our way of thinking an our way of living. In north country like Canada, we depend on south country to feed us. The transport of our food is done by truck over thousands of kilometers. Thus, our food is no longer totally fresh. Furthermore, the pollution produced by these transports is not negligible. With those facts north country have to find a way to produce fresh food all year long.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/oli_salade_main.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/oli_salade_main.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/oli_salade_main.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/oli_salade_main.jpg&#34;
 			
 			
 			
@@ -773,8 +779,8 @@ With the sliding system next to the main system I could get the piping system th
 I used a Raspberry pi to program the interface with python and tkinter. Whit it I can now access the arduino to follow data via graphics and change some parameters like cycle times, ph level, ppm level, etc.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/all_elec.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/all_elec.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/all_elec.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/all_elec.jpg&#34;
 			
 			
 			
@@ -788,8 +794,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;p&gt;peristaltic pumps&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/3_pump_.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/3_pump_.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/3_pump_.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/3_pump_.jpg&#34;
 			
 			
 			
@@ -808,8 +814,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;p&gt;This pump is very powerfull not very expensive. You can build up 125 psi whits this pump. To maintain a high pressure and to save the life of the pump it&amp;rsquo;s a must to have a pressurized water tank.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/salade_main.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/salade_main.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/salade_main.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/salade_main.jpg&#34;
 			
 			
 			
@@ -824,15 +830,15 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         </item>
         <item>
         <title>Basil</title>
-        <link>https://example.com/p/basil/</link>
+        <link>https://olboi7.github.io/p/basil/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/basil/</guid>
-        <description>&lt;img src="https://example.com/img/basil1.png" alt="Featured image of post Basil" /&gt;&lt;h1 id=&#34;january-9-2021&#34;&gt;January 9, 2021&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/basil/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/basil1.png" alt="Featured image of post Basil" /&gt;&lt;h1 id=&#34;january-9-2021&#34;&gt;January 9, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil1.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil1.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil1.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil1.png&#34;
 			
 			
 			
@@ -846,8 +852,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;january-11-2021&#34;&gt;January 11, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil2.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil2.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil2.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil2.png&#34;
 			
 			
 			
@@ -861,8 +867,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;january-13-2021&#34;&gt;January 13, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil3.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil3.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil3.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil3.png&#34;
 			
 			
 			
@@ -876,8 +882,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;january-15-2021&#34;&gt;January 15, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil4.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil4.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil4.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil4.png&#34;
 			
 			
 			
@@ -891,8 +897,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;january-18-2021&#34;&gt;January 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil5.png&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil5.png&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil5.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil5.png&#34;
 			
 			
 			
@@ -906,8 +912,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;febuary-18-2021&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil7.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil7.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil7.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil7.jpg&#34;
 			
 			
 			
@@ -921,8 +927,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;febuary-18-2021-1&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil6.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil6.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil6.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil6.jpg&#34;
 			
 			
 			
@@ -936,8 +942,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;febuary-18-2021-2&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil8.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil8.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil8.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil8.jpg&#34;
 			
 			
 			
@@ -952,8 +958,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-6--2021&#34;&gt;March 6 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil16.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil16.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil16.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil16.jpg&#34;
 			
 			
 			
@@ -967,8 +973,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-21-2021&#34;&gt;March 21, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil10.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil10.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil10.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil10.jpg&#34;
 			
 			
 			
@@ -982,8 +988,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-24-2021&#34;&gt;March 24, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil11.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil11.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil11.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil11.jpg&#34;
 			
 			
 			
@@ -997,8 +1003,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-1-2021&#34;&gt;April 1, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil12.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil12.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil12.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil12.jpg&#34;
 			
 			
 			
@@ -1012,8 +1018,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-3-2021&#34;&gt;April 3, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil13.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil13.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil13.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil13.jpg&#34;
 			
 			
 			
@@ -1027,8 +1033,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-3-2021-1&#34;&gt;April 3, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil14.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil14.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil14.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil14.jpg&#34;
 			
 			
 			
@@ -1042,8 +1048,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-1-2021-1&#34;&gt;April 1, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/basil15.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/basil15.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/basil15.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/basil15.jpg&#34;
 			
 			
 			
@@ -1059,15 +1065,15 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         </item>
         <item>
         <title>Carot</title>
-        <link>https://example.com/p/carot/</link>
+        <link>https://olboi7.github.io/p/carot/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/carot/</guid>
-        <description>&lt;img src="https://example.com/img/car13.jpg" alt="Featured image of post Carot" /&gt;&lt;h1 id=&#34;march-6-2021&#34;&gt;March 6, 2021&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/carot/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/car13.jpg" alt="Featured image of post Carot" /&gt;&lt;h1 id=&#34;march-6-2021&#34;&gt;March 6, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car00.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car00.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car00.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car00.jpg&#34;
 			
 			
 			
@@ -1081,8 +1087,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-14-2021&#34;&gt;March 14, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car0.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car0.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car0.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car0.jpg&#34;
 			
 			
 			
@@ -1096,8 +1102,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-21-2021&#34;&gt;March 21, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car1.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car1.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car1.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car1.jpg&#34;
 			
 			
 			
@@ -1111,8 +1117,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-24-2021&#34;&gt;March 24, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car2.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car2.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car2.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car2.jpg&#34;
 			
 			
 			
@@ -1126,8 +1132,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-1-2021&#34;&gt;April 1, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car4.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car4.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car4.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car4.jpg&#34;
 			
 			
 			
@@ -1141,8 +1147,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-3-2021&#34;&gt;April 3, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car3.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car3.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car3.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car3.jpg&#34;
 			
 			
 			
@@ -1156,8 +1162,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-11-2021&#34;&gt;April 11, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car7.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car7.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car7.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car7.jpg&#34;
 			
 			
 			
@@ -1171,8 +1177,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-19-2021&#34;&gt;April 19, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car8.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car8.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car8.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car8.jpg&#34;
 			
 			
 			
@@ -1186,8 +1192,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-29-2021&#34;&gt;April 29, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car9.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car9.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car9.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car9.jpg&#34;
 			
 			
 			
@@ -1201,8 +1207,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-2-2021&#34;&gt;May 2, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car10.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car10.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car10.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car10.jpg&#34;
 			
 			
 			
@@ -1216,8 +1222,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-6-2021&#34;&gt;May 6, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car11.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car11.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car11.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car11.jpg&#34;
 			
 			
 			
@@ -1231,8 +1237,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-7-2021&#34;&gt;May 7, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car12.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car12.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car12.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car12.jpg&#34;
 			
 			
 			
@@ -1245,8 +1251,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car13.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car13.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car13.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car13.jpg&#34;
 			
 			
 			
@@ -1259,8 +1265,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/car14.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/car14.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/car14.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/car14.jpg&#34;
 			
 			
 			
@@ -1275,15 +1281,15 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         </item>
         <item>
         <title>Kale</title>
-        <link>https://example.com/p/kale/</link>
+        <link>https://olboi7.github.io/p/kale/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/kale/</guid>
-        <description>&lt;img src="https://example.com/img/kaler.jpg" alt="Featured image of post Kale" /&gt;&lt;h1 id=&#34;febuary-18-2021&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/kale/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/kaler.jpg" alt="Featured image of post Kale" /&gt;&lt;h1 id=&#34;febuary-18-2021&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kale1.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kale1.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kale1.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kale1.jpg&#34;
 			
 			
 			
@@ -1297,8 +1303,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;febuary-24-2021&#34;&gt;Febuary 24, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kale2.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kale2.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kale2.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kale2.jpg&#34;
 			
 			
 			
@@ -1312,8 +1318,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march63-2021&#34;&gt;March63, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kale3.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kale3.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kale3.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kale3.jpg&#34;
 			
 			
 			
@@ -1327,8 +1333,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-12-2021&#34;&gt;March 12, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kale4.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kale4.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kale4.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kale4.jpg&#34;
 			
 			
 			
@@ -1342,8 +1348,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-21-2021&#34;&gt;March 21, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kale6.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kale6.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kale6.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kale6.jpg&#34;
 			
 			
 			
@@ -1357,8 +1363,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-18-2021&#34;&gt;March 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kaler.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kaler.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kaler.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kaler.jpg&#34;
 			
 			
 			
@@ -1372,8 +1378,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-1-2021&#34;&gt;April 1, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/kale7.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/kale7.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/kale7.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/kale7.jpg&#34;
 			
 			
 			
@@ -1388,15 +1394,15 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         </item>
         <item>
         <title>Spinach</title>
-        <link>https://example.com/p/spinach/</link>
+        <link>https://olboi7.github.io/p/spinach/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/spinach/</guid>
-        <description>&lt;img src="https://example.com/img/e29avril.jpg" alt="Featured image of post Spinach" /&gt;&lt;h1 id=&#34;febuary-14-2021&#34;&gt;Febuary 14, 2021&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/spinach/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/e29avril.jpg" alt="Featured image of post Spinach" /&gt;&lt;h1 id=&#34;febuary-14-2021&#34;&gt;Febuary 14, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/epi1.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/epi1.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/epi1.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/epi1.jpg&#34;
 			
 			
 			
@@ -1410,8 +1416,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;febuary-21-2021&#34;&gt;Febuary 21, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/epi2.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/epi2.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/epi2.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/epi2.jpg&#34;
 			
 			
 			
@@ -1425,8 +1431,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-24-2021&#34;&gt;March 24, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/epi3.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/epi3.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/epi3.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/epi3.jpg&#34;
 			
 			
 			
@@ -1440,8 +1446,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-1--2021&#34;&gt;April 1 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/epi4.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/epi4.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/epi4.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/epi4.jpg&#34;
 			
 			
 			
@@ -1455,8 +1461,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-3--2021&#34;&gt;April 3 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/e3avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/e3avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/e3avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/e3avril.jpg&#34;
 			
 			
 			
@@ -1470,8 +1476,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-12--2021&#34;&gt;April 12 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/e12avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/e12avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/e12avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/e12avril.jpg&#34;
 			
 			
 			
@@ -1485,8 +1491,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-16--2021&#34;&gt;April 16 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/e16avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/e16avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/e16avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/e16avril.jpg&#34;
 			
 			
 			
@@ -1500,8 +1506,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-23--2021&#34;&gt;April 23 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/e23avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/e23avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/e23avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/e23avril.jpg&#34;
 			
 			
 			
@@ -1515,8 +1521,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-29--2021&#34;&gt;April 29 , 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/e29avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/e29avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/e29avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/e29avril.jpg&#34;
 			
 			
 			
@@ -1531,15 +1537,15 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         </item>
         <item>
         <title>Strawberry</title>
-        <link>https://example.com/p/strawberry/</link>
+        <link>https://olboi7.github.io/p/strawberry/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/strawberry/</guid>
-        <description>&lt;img src="https://example.com/img/f19mai3.jpg" alt="Featured image of post Strawberry" /&gt;&lt;h1 id=&#34;febuary-26-2021&#34;&gt;Febuary 26, 2021&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/strawberry/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/f19mai3.jpg" alt="Featured image of post Strawberry" /&gt;&lt;h1 id=&#34;febuary-26-2021&#34;&gt;Febuary 26, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/straw1.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/straw1.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/straw1.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/straw1.jpg&#34;
 			
 			
 			
@@ -1553,8 +1559,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-3-2021&#34;&gt;March 3, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/straw2.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/straw2.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/straw2.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/straw2.jpg&#34;
 			
 			
 			
@@ -1568,8 +1574,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-6-2021&#34;&gt;March 6, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/straw3.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/straw3.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/straw3.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/straw3.jpg&#34;
 			
 			
 			
@@ -1583,8 +1589,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-9-2021&#34;&gt;March 9, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/straw6.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/straw6.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/straw6.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/straw6.jpg&#34;
 			
 			
 			
@@ -1598,8 +1604,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-14-2021&#34;&gt;March 14, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/straw4.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/straw4.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/straw4.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/straw4.jpg&#34;
 			
 			
 			
@@ -1613,8 +1619,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-21-2021&#34;&gt;March 21, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/straw5.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/straw5.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/straw5.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/straw5.jpg&#34;
 			
 			
 			
@@ -1628,8 +1634,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;march-24-2021&#34;&gt;March 24, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f24mars.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f24mars.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f24mars.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f24mars.jpg&#34;
 			
 			
 			
@@ -1643,8 +1649,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-1-2021&#34;&gt;April 1, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f1avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f1avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f1avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f1avril.jpg&#34;
 			
 			
 			
@@ -1658,8 +1664,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-3-2021&#34;&gt;April 3, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f3avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f3avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f3avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f3avril.jpg&#34;
 			
 			
 			
@@ -1673,8 +1679,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-11-2021&#34;&gt;April 11, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f11avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f11avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f11avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f11avril.jpg&#34;
 			
 			
 			
@@ -1688,8 +1694,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-16-2021&#34;&gt;April 16, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f16avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f16avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f16avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f16avril.jpg&#34;
 			
 			
 			
@@ -1703,8 +1709,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;april-26-2021&#34;&gt;April 26, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f26avril.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f26avril.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f26avril.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f26avril.jpg&#34;
 			
 			
 			
@@ -1718,8 +1724,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-4-2021&#34;&gt;May 4, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f4mai.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f4mai.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f4mai.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f4mai.jpg&#34;
 			
 			
 			
@@ -1733,8 +1739,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-15-2021&#34;&gt;May 15, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f15mai.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f15mai.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f15mai.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f15mai.jpg&#34;
 			
 			
 			
@@ -1748,8 +1754,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-19-2021&#34;&gt;May 19, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f19mai1.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f19mai1.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f19mai1.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f19mai1.jpg&#34;
 			
 			
 			
@@ -1762,8 +1768,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f19mai2.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f19mai2.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f19mai2.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f19mai2.jpg&#34;
 			
 			
 			
@@ -1776,8 +1782,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f19mai3.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f19mai3.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f19mai3.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f19mai3.jpg&#34;
 			
 			
 			
@@ -1791,8 +1797,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;may-25-2021&#34;&gt;May 25, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f25mai.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f25mai.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f25mai.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f25mai.jpg&#34;
 			
 			
 			
@@ -1806,8 +1812,8 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
 &lt;h1 id=&#34;june-4-2021&#34;&gt;june 4, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/f2zjuin.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/f2zjuin.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/f2zjuin.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/f2zjuin.jpg&#34;
 			
 			
 			
@@ -1822,19 +1828,19 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         </item>
         <item>
         <title>Letuces evolution</title>
-        <link>https://example.com/p/letuces-evolution/</link>
+        <link>https://olboi7.github.io/p/letuces-evolution/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/letuces-evolution/</guid>
-        <description>&lt;img src="https://example.com/img/23jan.jpg" alt="Featured image of post Letuces evolution" /&gt;&lt;h1 id=&#34;crops-evolution&#34;&gt;Crops evolution&lt;/h1&gt;
+        <guid>https://olboi7.github.io/p/letuces-evolution/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/23jan.jpg" alt="Featured image of post Letuces evolution" /&gt;&lt;h1 id=&#34;crops-evolution&#34;&gt;Crops evolution&lt;/h1&gt;
 &lt;p&gt;I started my seedlings on December 14th 2020. In December th I planted the seedlings in mineral cubes and put them under LED light. One weed later December 29th, I put the cubes in the plant baskets and placed them in my containers.You can see the evolutions on the pictures below.&lt;/p&gt;
 &lt;h1 id=&#34;december-14-2020&#34;&gt;December 14, 2020&lt;/h1&gt;
 &lt;p&gt;I tried 4 kinds of letuces but the one presented here are the &amp;ldquo;Grosse Blonde Paresseuse&amp;rdquo;.
 It was that lettuce that performed the most, with the less issues and the one that grew faster.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/11dec.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/11dec.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/11dec.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/11dec.jpg&#34;
 			
 			
 			
@@ -1848,8 +1854,8 @@ It was that lettuce that performed the most, with the less issues and the one th
 &lt;h1 id=&#34;january-4-2021&#34;&gt;January 4, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/4jan.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/4jan.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/4jan.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/4jan.jpg&#34;
 			
 			
 			
@@ -1863,8 +1869,8 @@ It was that lettuce that performed the most, with the less issues and the one th
 &lt;h1 id=&#34;january-8-2021&#34;&gt;January 8, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/8jan.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/8jan.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/8jan.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/8jan.jpg&#34;
 			
 			
 			
@@ -1879,8 +1885,8 @@ It was that lettuce that performed the most, with the less issues and the one th
 &lt;p&gt;I started eating them that week ! one month after the beginning !&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/12jan.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/12jan.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/12jan.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/12jan.jpg&#34;
 			
 			
 			
@@ -1895,8 +1901,8 @@ It was that lettuce that performed the most, with the less issues and the one th
 &lt;p&gt;I let 2 lettuces survived to see how big they could grow.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/19jan.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/19jan.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/19jan.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/19jan.jpg&#34;
 			
 			
 			
@@ -1911,8 +1917,8 @@ It was that lettuce that performed the most, with the less issues and the one th
 &lt;p&gt;I needed more space so I ate the smallest one&amp;hellip;.. 4 days later the diameter was 23 inches&amp;hellip;..&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
-	&lt;a href=&#34;https://example.com/img/23jan.jpg&#34; &gt;
-		&lt;img src=&#34;https://example.com/img/23jan.jpg&#34;
+	&lt;a href=&#34;https://olboi7.github.io/img/23jan.jpg&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/23jan.jpg&#34;
 			
 			
 			

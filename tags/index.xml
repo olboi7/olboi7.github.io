@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Olivier Boisvert</title>
-    <link>https://example.com/tags/</link>
+    <link>https://olboi7.github.io/tags/</link>
     <description>Recent content in Tags on Olivier Boisvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aeroponic</title>
-      <link>https://example.com/tags/aeroponic/</link>
+      <link>https://olboi7.github.io/tags/aeroponic/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/aeroponic/</guid>
+      <guid>https://olboi7.github.io/tags/aeroponic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroponic</title>
-      <link>https://example.com/tags/hydroponic/</link>
+      <link>https://olboi7.github.io/tags/hydroponic/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/hydroponic/</guid>
+      <guid>https://olboi7.github.io/tags/hydroponic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Letuce</title>
-      <link>https://example.com/tags/letuce/</link>
+      <link>https://olboi7.github.io/tags/letuce/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/letuce/</guid>
+      <guid>https://olboi7.github.io/tags/letuce/</guid>
       <description></description>
     </item>
     

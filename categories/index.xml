@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Olivier Boisvert</title>
-    <link>https://example.com/categories/</link>
+    <link>https://olboi7.github.io/categories/</link>
     <description>Recent content in Categories on Olivier Boisvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prototype</title>
-      <link>https://example.com/categories/prototype/</link>
+      <link>https://olboi7.github.io/categories/prototype/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/prototype/</guid>
+      <guid>https://olboi7.github.io/categories/prototype/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aeroponic</title>
-      <link>https://example.com/categories/aeroponic/</link>
+      <link>https://olboi7.github.io/categories/aeroponic/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/aeroponic/</guid>
+      <guid>https://olboi7.github.io/categories/aeroponic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>system</title>
-      <link>https://example.com/categories/system/</link>
+      <link>https://olboi7.github.io/categories/system/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/system/</guid>
+      <guid>https://olboi7.github.io/categories/system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroponic</title>
-      <link>https://example.com/categories/hydroponic/</link>
+      <link>https://olboi7.github.io/categories/hydroponic/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/hydroponic/</guid>
+      <guid>https://olboi7.github.io/categories/hydroponic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aeroponic project</title>
-      <link>https://example.com/categories/aeroponic-project/</link>
+      <link>https://olboi7.github.io/categories/aeroponic-project/</link>
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/aeroponic-project/</guid>
+      <guid>https://olboi7.github.io/categories/aeroponic-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kale</title>
-      <link>https://example.com/categories/kale/</link>
+      <link>https://olboi7.github.io/categories/kale/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/kale/</guid>
+      <guid>https://olboi7.github.io/categories/kale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://example.com/categories/test/</link>
+      <link>https://olboi7.github.io/categories/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/test/</guid>
+      <guid>https://olboi7.github.io/categories/test/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hydroponic on Olivier Boisvert</title>
-    <link>https://example.com/tags/hydroponic/</link>
+    <link>https://olboi7.github.io/tags/hydroponic/</link>
     <description>Recent content in Hydroponic on Olivier Boisvert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/hydroponic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/tags/hydroponic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hydroponie project</title>
-      <link>https://example.com/p/hydroponie-project/</link>
+      <link>https://olboi7.github.io/p/hydroponie-project/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/hydroponie-project/</guid>
+      <guid>https://olboi7.github.io/p/hydroponie-project/</guid>
       <description>Hydroponie project This is a hydroponic system made for a family member. We will compare the effectiveness of the two systems. This system is very simple, it is about an aquarium pump which recyrculates a solution of nutrients. 4 inch and 1/2 inch pvc pipes with the components and glue to join them together were used to build the system. A filter was put on the return to keep the water basin clean.</description>
     </item>
     
