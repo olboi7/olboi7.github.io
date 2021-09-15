@@ -12,20 +12,9 @@
         <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/final-prototype/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/proto1.jpg" alt="Featured image of post Final prototype" /&gt;&lt;hr&gt;
-&lt;p style=&#34;text-align:center;color:black;font-size:300%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:bold;&#34;&gt; 
-Final prototype
-&lt;/p&gt;
-
-&lt;hr&gt;
-&lt;p style=&#34;text-align:center;color:black;font-size:200%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:bold;&#34;&gt; 
-September 5, 2021
-&lt;/p&gt;
-
-&lt;p  style=&#34;text-align:center;color:black;font-size:110%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:300;&#34;&gt; 
-Finally after more than a year and a half, I finished my industrial prototype. As I mentioned before, the unit should have been 16 feet long in order to be as productive as possible (length of panels normally). I was running out of space, and wanted to save money, so I made a smaller one.
-&lt;/p&gt;
-
+        <description>&lt;img src="https://olboi7.github.io/img/proto1.jpg" alt="Featured image of post Final prototype" /&gt;&lt;p&gt;Final prototype&lt;/p&gt;
+&lt;p&gt;September 5, 2021&lt;/p&gt;
+&lt;p&gt;Finally after more than a year and a half, I finished my industrial prototype. As I mentioned before, the unit should have been 16 feet long in order to be as productive as possible (length of panels normally). I was running out of space, and wanted to save money, so I made a smaller one.&lt;/p&gt;
 
     &lt;figure &gt;
         
@@ -61,23 +50,11 @@ Finally after more than a year and a half, I finished my industrial prototype. A
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;video controls class=&#39;center&#39; video=&#39;this is a label&#39; controls=&#34;yes&#34; style=&#34;width: 65%; height: 65%; border:5px solid black;&#34;&gt;
-    &lt;source src=&#34;https://olboi7.github.io/img/total2.mp4&#34; type=&#34;video/mp4&#34;&gt;
-    &lt;p&gt; Your browser does not support video. &lt;/p&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-
-&lt;p style=&#34;text-align:center;color:black;font-size:125%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:100d;font-style: italic;&#34;&gt;Short video of the system&lt;/p&gt;
+&lt;p&gt;.center { margin: 0 auto; width: 400px; }
+&lt;p style=&#34;text-align:center;color:darkgray;font-size:125%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:100d;&#34;&gt;Short video of the system&lt;/p&gt;
 &lt;/p&gt;
-&lt;hr&gt;
-&lt;hr&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
-&lt;p  style=&#34;text-align:center;color:black;font-size:110%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:300;&#34;&gt; 
-The water control unit, where there are the ph and ppm sensors placed above it. The three small peristaltic pumps work when there is an imbalance of ph or ppm. there is a aquarium pump inside the basin to stir the water when a peristaltic pump sends its additive.&lt;/p&gt;
-
+&lt;p&gt;The water control unit, where there are the ph and ppm sensors placed above it. The three small peristaltic pumps work when there is an imbalance of ph or ppm. there is a aquarium pump inside the basin to stir the water when a peristaltic pump sends its additive.&lt;/p&gt;
 
     &lt;figure &gt;
         
@@ -96,8 +73,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading-2&#34;&gt;&lt;/h1&gt;
-&lt;p  style=&#34;text-align:center;color:black;font-size:110%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:300;&#34;&gt; The inside of the mister unit where the roots are located. This unit is normally closed to make sure no alges will develop.&lt;/p&gt;
-
+&lt;p&gt;The inside of the mister unit where the roots are located. This unit is normally closed to make sure no alges will develop.&lt;/p&gt;
 
     &lt;figure &gt;
         
@@ -116,8 +92,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading-3&#34;&gt;&lt;/h1&gt;
-&lt;p  style=&#34;text-align:center;color:black;font-size:110%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:300;&#34;&gt; The motor and the sliding system. In the small black box it&#39;s the temperature and humidity sensor.&lt;/p&gt;
-
+&lt;p&gt;The motor and the sliding system. In the small black box it&amp;rsquo;s the temperature and humidity sensor.&lt;/p&gt;
 
     &lt;figure &gt;
         
@@ -136,8 +111,7 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading-4&#34;&gt;&lt;/h1&gt;
-&lt;p  style=&#34;text-align:center;color:black;font-size:110%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:300;&#34;&gt; The control computer where it is possible to change parameters, such as motor speed, ppm level, ph level. It is also possible to stop and restart the stepper motor and the misters. The program also allows real-time monitoring of pressure ph, ppm, temperature and humidity data.&lt;/p&gt;
-
+&lt;p&gt;The control computer where it is possible to change parameters, such as motor speed, ppm level, ph level. It is also possible to stop and restart the stepper motor and the misters. The program also allows real-time monitoring of pressure ph, ppm, temperature and humidity data.&lt;/p&gt;
 &lt;h1 id=&#34;heading-5&#34;&gt;&lt;/h1&gt;
 
     &lt;figure &gt;
@@ -173,6 +147,37 @@ The water control unit, where there are the ph and ppm sensors placed above it. 
         &lt;/figcaption&gt;
         
     &lt;/figure&gt;
+
+</description>
+        </item>
+        <item>
+        <title>First production in the prototype</title>
+        <link>https://olboi7.github.io/p/first-production-in-the-prototype/</link>
+        <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://olboi7.github.io/p/first-production-in-the-prototype/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/prod1.jpg" alt="Featured image of post First production in the prototype" /&gt;&lt;h1 id=&#34;september-14-2021&#34;&gt;September 14, 2021&lt;/h1&gt;
+&lt;p&gt;The first day of basil production !! Yeah!&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://olboi7.github.io/img/prod2.jpg&#34;
+         alt=&#34;Side view&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Side view&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://olboi7.github.io/img/prod3.jpg&#34;
+         alt=&#34;Side view&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Side view&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://olboi7.github.io/img/prod4.jpg&#34;
+         alt=&#34;Front view&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Front view&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
 
 </description>
         </item>
