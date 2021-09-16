@@ -50,13 +50,7 @@
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;video controls class=&#39;center&#39; video=&#39;this is a label&#39; controls=&#34;yes&#34; style=&#34;width: 65%; height: 65%; border:5px solid black;&#34;&gt;
-    &lt;source src=&#34;https://olboi7.github.io/img/total2.mp4&#34; type=&#34;video/mp4&#34;&gt;
-    &lt;p&gt; Your browser does not support video. &lt;/p&gt;
-&lt;/video&gt;
-&lt;/center&gt;
-
+&lt;p&gt;.center { margin: 0 auto; width: 400px; }
 &lt;p style=&#34;text-align:center;color:darkgray;font-size:125%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:100d;&#34;&gt;Short video of the system&lt;/p&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
@@ -193,7 +187,7 @@
         <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/the-bulding-of-the-prototype/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/nsys33.jpg" alt="Featured image of post The bulding of the prototype" /&gt;&lt;p&gt;For the prototype, my goal is to make a light and &amp;ldquo;easy to build&amp;rdquo; module. The reason is simple, one of the strengths of aeroponics is that the system consumes at least 80% -95% less water than hydroponics. Thus an aeroponic system is much lighter. As a result, it can be installed on less strong roofs easier. Roofs will not have to support a large amount of weight of water.&lt;/p&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_const.jpg" alt="Featured image of post The bulding of the prototype" /&gt;&lt;p&gt;For the prototype, my goal is to make a light and &amp;ldquo;easy to build&amp;rdquo; module. The reason is simple, one of the strengths of aeroponics is that the system consumes at least 80% -95% less water than hydroponics. Thus an aeroponic system is much lighter. As a result, it can be installed on less strong roofs easier. Roofs will not have to support a large amount of weight of water.&lt;/p&gt;
 &lt;p&gt;My first idea was to build a structure in PVC because this material is NSF. Subsequently I used HDPE panels, also NSF, in order to be able to support the pots of the plants. In order to create a retention basin I used an EPDM canvas, also NSF. I used stainless steel screws to hold the panels and boat buttons to hold the canvas. The installation was very long, and inconclusive, more than I pierced the canvas during the process. Also, the thin thickness of the panels, let the light get through them.&lt;/p&gt;
 &lt;h1 id=&#34;april-2-2021&#34;&gt;April 2, 2021&lt;/h1&gt;
 &lt;figure&gt;
@@ -298,7 +292,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;I tried clear vinyl pipes, the sealing effect was perfect but the light was diffused by this material. I changed all these seals for NSF black vinyl pipes and it worked.
-With the sliding system next to the main system I could get the piping system through the side instead of above. Thus, It&amp;rsquo;s more difficult for the light to get into the system even impossible. To be sure tha the system is light proof I added PVC molding around the EDPM fabric.&lt;/p&gt;
+With the sliding system next to the main system I could get the piping system through the side instead of above. Thus, It&amp;rsquo;s more difficult for the light to get into the system even impossible. To be sure that the system is light proof I added PVC molding around the EDPM fabric.&lt;/p&gt;
 &lt;figure&gt;
     &lt;img src=&#34;https://olboi7.github.io/img/nsys33.jpg&#34;
          alt=&#34;The side groove&#34;/&gt; &lt;figcaption&gt;
@@ -341,7 +335,7 @@ With the sliding system next to the main system I could get the piping system th
         <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/system-evolution/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/Kraker1.png" alt="Featured image of post System-evolution" /&gt;&lt;h2 id=&#34;low-pressure-system&#34;&gt;Low pressure system&lt;/h2&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_Evo.jpg" alt="Featured image of post System-evolution" /&gt;&lt;h2 id=&#34;low-pressure-system&#34;&gt;Low pressure system&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Aquarium pump was working 24/7 that system made to mush noise &amp;hellip; I removed it 2 days after I had installed it&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
@@ -487,7 +481,7 @@ With the sliding system next to the main system I could get the piping system th
         <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/hydroponie-project/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/hydro16.jpeg" alt="Featured image of post Hydroponie project" /&gt;&lt;h1 id=&#34;hydroponie-project&#34;&gt;Hydroponie project&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_hydro.jpg" alt="Featured image of post Hydroponie project" /&gt;&lt;h1 id=&#34;hydroponie-project&#34;&gt;Hydroponie project&lt;/h1&gt;
 &lt;p&gt;This is a hydroponic system made for a family member. We will compare the effectiveness of the two systems. This system is very simple, it is about an aquarium pump which recyrculates a solution of nutrients. 4 inch and 1/2 inch pvc pipes with the components and glue to join them together were used to build the system. A filter was put on the return to keep the water basin clean. The other components are irrigation fittings, elbow and black pipes.&lt;/p&gt;
 &lt;p&gt;In order to prevent leaks, a retention basin made with EDPM canvas has been added under the shelf.&lt;/p&gt;
 &lt;p&gt;&lt;figure 
@@ -845,7 +839,7 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/basil/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/basil1.png" alt="Featured image of post Basil" /&gt;&lt;h1 id=&#34;january-9-2021&#34;&gt;January 9, 2021&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_Basil.png" alt="Featured image of post Basil" /&gt;&lt;h1 id=&#34;january-9-2021&#34;&gt;January 9, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
 	&lt;a href=&#34;https://olboi7.github.io/img/basil1.png&#34; &gt;
@@ -1080,7 +1074,7 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/carot/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/car13.jpg" alt="Featured image of post Carot" /&gt;&lt;h1 id=&#34;march-6-2021&#34;&gt;March 6, 2021&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_Carot3.jpg" alt="Featured image of post Carot" /&gt;&lt;h1 id=&#34;march-6-2021&#34;&gt;March 6, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
 	&lt;a href=&#34;https://olboi7.github.io/img/car00.jpg&#34; &gt;
@@ -1296,7 +1290,7 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/kale/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/kaler.jpg" alt="Featured image of post Kale" /&gt;&lt;h1 id=&#34;febuary-18-2021&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_Kale.jpg" alt="Featured image of post Kale" /&gt;&lt;h1 id=&#34;febuary-18-2021&#34;&gt;Febuary 18, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
 	&lt;a href=&#34;https://olboi7.github.io/img/kale1.jpg&#34; &gt;
@@ -1409,7 +1403,7 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/spinach/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/e29avril.jpg" alt="Featured image of post Spinach" /&gt;&lt;h1 id=&#34;febuary-14-2021&#34;&gt;Febuary 14, 2021&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_Spinach.jpg" alt="Featured image of post Spinach" /&gt;&lt;h1 id=&#34;febuary-14-2021&#34;&gt;Febuary 14, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
 	&lt;a href=&#34;https://olboi7.github.io/img/epi1.jpg&#34; &gt;
@@ -1552,7 +1546,7 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/strawberry/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/f19mai3.jpg" alt="Featured image of post Strawberry" /&gt;&lt;h1 id=&#34;febuary-26-2021&#34;&gt;Febuary 26, 2021&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_Straw.jpg" alt="Featured image of post Strawberry" /&gt;&lt;h1 id=&#34;febuary-26-2021&#34;&gt;Febuary 26, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure 
 	&gt;
 	&lt;a href=&#34;https://olboi7.github.io/img/straw1.jpg&#34; &gt;
@@ -1843,7 +1837,7 @@ I used a Raspberry pi to program the interface with python and tkinter. Whit it 
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://olboi7.github.io/p/letuces-evolution/</guid>
-        <description>&lt;img src="https://olboi7.github.io/img/23jan.jpg" alt="Featured image of post Letuces evolution" /&gt;&lt;h1 id=&#34;crops-evolution&#34;&gt;Crops evolution&lt;/h1&gt;
+        <description>&lt;img src="https://olboi7.github.io/img/top_letuce.jpg" alt="Featured image of post Letuces evolution" /&gt;&lt;h1 id=&#34;crops-evolution&#34;&gt;Crops evolution&lt;/h1&gt;
 &lt;p&gt;I started my seedlings on December 14th 2020. In December th I planted the seedlings in mineral cubes and put them under LED light. One weed later December 29th, I put the cubes in the plant baskets and placed them in my containers.You can see the evolutions on the pictures below.&lt;/p&gt;
 &lt;h1 id=&#34;december-14-2020&#34;&gt;December 14, 2020&lt;/h1&gt;
 &lt;p&gt;I tried 4 kinds of letuces but the one presented here are the &amp;ldquo;Grosse Blonde Paresseuse&amp;rdquo;.
