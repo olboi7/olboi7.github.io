@@ -45,18 +45,32 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;h1 id=&#34;september-23-2021&#34;&gt;September 23, 2021&lt;/h1&gt;
+&lt;h1 id=&#34;september-24-2021&#34;&gt;September 24, 2021&lt;/h1&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://olboi7.github.io/img/basil_m_23_3.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/basil_v_23_1.jpg&#34;
          alt=&#34;Side view&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Side view&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://olboi7.github.io/img/basil_m_23_4.jpg&#34;
+    &lt;img src=&#34;https://olboi7.github.io/img/basil_v_23_2.jpg&#34;
          alt=&#34;Side view&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Side view&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://olboi7.github.io/img/basil_s_17.jpg&#34;
+         alt=&#34;September 17&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;September 17&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://olboi7.github.io/img/basil_v_23_3.jpg&#34;
+         alt=&#34;September 24&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;September 24&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -106,7 +120,13 @@
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;.center { margin: 0 auto; width: 400px; }
+&lt;p&gt;&lt;center&gt;
+&lt;video controls class=&#39;center&#39; video=&#39;this is a label&#39; controls=&#34;yes&#34; style=&#34;width: 65%; height: 65%; border:5px solid black;&#34;&gt;
+    &lt;source src=&#34;https://olboi7.github.io/img/total2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;p&gt; Your browser does not support video. &lt;/p&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+
 &lt;p style=&#34;text-align:center;color:darkgray;font-size:125%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:100d;&#34;&gt;Short video of the system&lt;/p&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
