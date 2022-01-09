@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video game on Olivier Boisvert</title>
+    <link>https://olboi7.github.io/tags/video-game/</link>
+    <description>Recent content in video game on Olivier Boisvert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/tags/video-game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video game</title>
+      <link>https://olboi7.github.io/p/video-game/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://olboi7.github.io/p/video-game/</guid>
+      <description>Design the game I used python and pygame this game.
+Gravity and bloc movements  Gravity 
+push the bloc  Push 
+bloc pull  Pull 
+pic a blade  aa 
+house when the game start with the layers  aa 
+ aa 
+knee down  aa 
+hit a snake  aa 
+bitten by a boss  aa 
+Sword menu  aa</description>
+    </item>
+    
+  </channel>
+</rss>

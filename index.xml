@@ -6,7 +6,256 @@
         <description>Recent content on Olivier Boisvert</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://olboi7.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Video game</title>
+        <link>https://olboi7.github.io/p/video-game/</link>
+        <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://olboi7.github.io/p/video-game/</guid>
+        <description>&lt;img src="https://olboi7.github.io/img/back_game_1.png" alt="Featured image of post Video game" /&gt;&lt;h2 id=&#34;design-the-game&#34;&gt;Design the game&lt;/h2&gt;
+&lt;p&gt;I used python and pygame this game.&lt;/p&gt;
+&lt;h2 id=&#34;gravity-and-bloc-movements&#34;&gt;Gravity and bloc movements&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/blocdrop.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/blocdrop.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;Gravity&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Gravity&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;push-the-bloc&#34;&gt;push the bloc&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/blocpousse.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/blocpousse.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;Push&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Push&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bloc-pull&#34;&gt;bloc pull&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/bloctire.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/bloctire.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;Pull&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Pull&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;pic-a-blade&#34;&gt;pic a blade&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/sortepe.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/sortepe.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;house-when-the-game-start-with-the-layers&#34;&gt;house when the game start with the layers&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/maisondebut0.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/maisondebut0.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/maisondispa.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/maisondispa.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;knee-down&#34;&gt;knee down&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/penche.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/penche.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hit-a-snake&#34;&gt;hit a snake&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/serphit.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/serphit.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bitten-by-a-boss&#34;&gt;bitten by a boss&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/monsterbit.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/monsterbit.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sword-menu&#34;&gt;Sword menu&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/epemenu.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/epemenu.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;climbing&#34;&gt;Climbing&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/escale.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/escale.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-a-chest&#34;&gt;open a chest&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/ouvrecoffre.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/ouvrecoffre.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;potion-menu&#34;&gt;potion menu&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/potion.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/potion.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;glider&#34;&gt;Glider&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/para.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/para.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sword-hit&#34;&gt;Sword hit&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/coupepe.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/coupepe.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bloc-pull-1&#34;&gt;bloc pull&lt;/h2&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://olboi7.github.io/img/bloctire.png&#34; &gt;
+		&lt;img src=&#34;https://olboi7.github.io/img/bloctire.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;aa&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;aa&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>First production with the prototype</title>
         <link>https://olboi7.github.io/p/first-production-with-the-prototype/</link>
         <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
