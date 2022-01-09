@@ -170,7 +170,13 @@
     &lt;/figure&gt;
 
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;p&gt;.center { margin: 0 auto; width: 400px; }
+&lt;p&gt;&lt;center&gt;
+&lt;video controls class=&#39;center&#39; video=&#39;this is a label&#39; controls=&#34;yes&#34; style=&#34;width: 65%; height: 65%; border:5px solid black;&#34;&gt;
+    &lt;source src=&#34;https://olboi7.github.io/img/total2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;p&gt; Your browser does not support video. &lt;/p&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+
 &lt;p style=&#34;text-align:center;color:darkgray;font-size:125%;font-family:&#39;Times New Roman&#39;, Times, serif;font-weight:100d;&#34;&gt;Short video of the system&lt;/p&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
